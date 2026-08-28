@@ -1,0 +1,13 @@
+# Системные файлы macOS и Windows
+.DS_Store
+Thumbs.db
+
+# Рабочие пространства (текущая открытая вкладка, позиция курсора)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile
+.obsidian/workspace-mobile.json
+
+# Кеш и временные файлы
+.obsidian/cache
+.obsidian/community-plugins.json
