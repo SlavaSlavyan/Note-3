@@ -7,6 +7,7 @@
 - **main** [ВЫ ЗДЕСЬ] - пустая ветка где находится лишь небольшая памятка для навигации
 - [**obsidian**](https://github.com/SlavaSlavyan/Note-3/tree/obsidian) - электронные конспекты **(ДОМАШНИЕ ЗАДАНИЯ НАХОДЯТСЯ В ДРУГИХ ВЕТКАХ)**
 - [**paper**](https://github.com/SlavaSlavyan/Note-3/tree/paper) - сканы письменных конспектов с удобной навигацией
+- [**project-management**](https://github.com/SlavaSlavyan/Note-3/tree/project-management) - Управление программными проектами
 
 ## Завершение
 
