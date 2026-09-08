@@ -9,6 +9,7 @@
 - [**paper**](https://github.com/SlavaSlavyan/Note-3/tree/paper) - сканы письменных конспектов с удобной навигацией
 - [**project-management**](https://github.com/SlavaSlavyan/Note-3/tree/project-management) - Управление программными проектами
 - [**philosophy**](https://github.com/SlavaSlavyan/Note-3/tree/philosophy) - Основы философии
+- [**data-base**](https://github.com/SlavaSlavyan/Note-3/tree/data-base) - Теория баз данных. Программирование MS SQL Server
 
 ## Завершение
 
