@@ -5,11 +5,14 @@
 ## Доступные ветки
 
 - **main** [ВЫ ЗДЕСЬ] - пустая ветка где находится лишь небольшая памятка для навигации
-- [**obsidian**](https://github.com/SlavaSlavyan/Note-3/tree/obsidian) - электронные конспекты **(ДОМАШНИЕ ЗАДАНИЯ НАХОДЯТСЯ В ДРУГИХ ВЕТКАХ)**
-- [**paper**](https://github.com/SlavaSlavyan/Note-3/tree/paper) - сканы письменных конспектов с удобной навигацией
+---
+- [**obsidian**](https://github.com/SlavaSlavyan/Note-3/tree/obsidian) - электронные конспекты (**БЕЗ ДЗ**)
+- [**paper**](https://github.com/SlavaSlavyan/Note-3/tree/paper) - сканы письменных конспектов с удобной навигацией (*включая листы с дз*)
+---
 - [**project-management**](https://github.com/SlavaSlavyan/Note-3/tree/project-management) - Управление программными проектами
 - [**philosophy**](https://github.com/SlavaSlavyan/Note-3/tree/philosophy) - Основы философии
 - [**data-base**](https://github.com/SlavaSlavyan/Note-3/tree/data-base) - Теория баз данных. Программирование MS SQL Server
+- [**FAnP**](https://github.com/SlavaSlavyan/Note-3/tree/FAnP) - Основы алгоритмизации и программирования
 
 ## Завершение
 
