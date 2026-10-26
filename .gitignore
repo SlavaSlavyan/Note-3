@@ -1,0 +1,51 @@
+## .gitignore для C# и .NET
+
+# Сборка и бинарники
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+[Bb]uildResults/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.vshost.*
+
+# NuGet пакеты и кэш
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Файлы Visual Studio
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+.vs/
+*.pidb
+*.svclog
+*.cache
+
+# Результаты тестов и покрытие кода
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+# Кэш анализаторов и Entity Framework
+_ReSharper*/
+*.[Rr]eSharper
+*.DotSettings.user
+Migrations/
+
+# Операционная система
+.DS_Store
+Thumbs.db
