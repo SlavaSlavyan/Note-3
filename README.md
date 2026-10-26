@@ -14,6 +14,7 @@
 - [**data-base**](https://github.com/SlavaSlavyan/Note-3/tree/data-base) - Теория баз данных. Программирование MS SQL Server
 - [**FAnP**](https://github.com/SlavaSlavyan/Note-3/tree/FAnP) - Основы алгоритмизации и программирования
 - [**management**](https://github.com/SlavaSlavyan/Note-3/tree/management) - Менеджмент в профессиональной деятельности
+- [**net-programming**](https://github.com/SlavaSlavyan/Note-3/tree/net-programming) - Сетевое программирование
 ---
 - [**cpp**](https://github.com/SlavaSlavyan/Note-3/tree/cpp) - Объектно-ориентированное программирование с использованием языка C++ РПО
 
