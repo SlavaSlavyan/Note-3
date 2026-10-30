@@ -1,0 +1,3 @@
+Java это язык
+Python тоже язык
+Java и Python популярны
